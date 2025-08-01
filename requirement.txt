@@ -1,0 +1,9 @@
+python-dotenv
+os
+json
+requests
+torch
+fastapi
+transformers
+pydantic
+streamlit
