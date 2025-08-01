@@ -25,7 +25,7 @@ An intelligent chatbot that combines the power of Llama 3.2-1B language model wi
 
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+venv\Scripts\activate
 ```
 
 ### 3. Install Dependencies
